@@ -1,3 +1,4 @@
+#Github first file
 import random
 
 def roll(sides=6):
