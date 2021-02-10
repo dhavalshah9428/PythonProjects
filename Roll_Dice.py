@@ -1,4 +1,4 @@
-
+#GitVersion
 import random
 
 def roll(sides=6):
